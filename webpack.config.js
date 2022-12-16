@@ -8,7 +8,7 @@ module.exports = {
         index: './src/index.js',
         print: './src/print.js',
     },
-    devServer: {
+    devServer: { 
         static: './dist',
     },
     plugins: [
