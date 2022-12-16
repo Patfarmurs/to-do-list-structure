@@ -36,14 +36,14 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [your_project_name] <a name="about-project"></a>
-Awesome-Book
+To do list structure
 
 > Describe your project in 1 or 2 sentences.
-This project is based on a library that provides  a set of features,
-where a user can add and remove a book from the library list.
+This project is based on a dayly to do list that provides  a set of features,
+where a user can add and remove something he or she will do on the list.
 
 **[your_project__name]** is a...
-#awesome-book
+#To do list structure
 
 ## 🛠 Built With <a name="built-with"></a>
 Html
