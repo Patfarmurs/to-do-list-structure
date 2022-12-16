@@ -34,23 +34,13 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-
-# 📖 [your_project_name] <a name="about-project"></a>
-To do list structure
-
-> Describe your project in 1 or 2 sentences.
 This project is based on a dayly to do list that provides  a set of features,
 where a user can add and remove something he or she will do on the list.
 
-**[your_project__name]** is a...
-#To do list structure
-
-## 🛠 Built With <a name="built-with"></a>
+**[To do list structure]** is a...
+## 🛠 Built With 
 Html
 CSS and Javascript
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -60,15 +50,6 @@ CSS and Javascript
     <li>JAVASCRIPT</li>
   </ul>
 </details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[Transition]**
-- **[Local data storage]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,10 +63,6 @@ CSS and Javascript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
 > Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
@@ -93,14 +70,6 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -159,13 +128,6 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [Video background] **[new_feature_1]**
-- [Hambuger manu] **[new_feature_2]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -192,9 +154,6 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank to Figma for the inspiration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
