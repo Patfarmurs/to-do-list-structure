@@ -85,7 +85,7 @@ button {
 
 .todo-input:focus {
   outline: none;
-  border: 2px solid rgb(103, 160, 11);
+  border: 2px solid rgb(102, 160, 11);
 }
 
 input::placeholder {
@@ -154,6 +154,7 @@ input::placeholder {
   padding-left: 10%;
 }
 
+/*put a line across the word*/
 .completed {
   text-decoration: line-through;
 }
