@@ -154,7 +154,7 @@ input::placeholder {
   padding-left: 10%;
 }
 
-/*put a line across the word*/
+/* put a line across the word */
 .completed {
   text-decoration: line-through;
 }
